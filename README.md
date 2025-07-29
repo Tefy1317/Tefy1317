@@ -1,8 +1,8 @@
-# 🫶🏻 ¡Hola!, soy Estephanie Ruiz
+# 🫶🏻 ¡Hola! soy Estephanie Ruiz
 
 🎓 Estudiante de Ingeniería en Ciencias y Sistemas <br>
 💻 Apasionada por el desarrollo de software, la programación y la tecnología. <br>
-👩‍💻 Me gusta resolver problemas y convertirlos en soluciones elegantes <br>
+👩‍💻 Me gusta resolver problemas y convertirlos en soluciones elegantes ✨ <br>
 📫 Contacto: estefy.ruizp@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estephanie-ruiz-perez-8a1800376/) 
