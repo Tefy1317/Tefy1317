@@ -1,9 +1,10 @@
 # 🫶🏻 ¡Hola!, soy Estephanie Ruiz
 
-🎓 Estudiante de Ingeniería en Ciencias y Sistemas 
-💻 Apasionada por el desarrollo de software, la programación y la tecnología. 
-👩‍💻 Me gusta resolver problemas y convertirlos en soluciones elegantes 
-📫 Contacto: estefy.ruizp@gmail.com 
+🎓 Estudiante de Ingeniería en Ciencias y Sistemas <br>
+💻 Apasionada por el desarrollo de software, la programación y la tecnología. <br>
+👩‍💻 Me gusta resolver problemas y convertirlos en soluciones elegantes <br>
+📫 Contacto: estefy.ruizp@gmail.com
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estephanie-ruiz-perez-8a1800376/) 
 [![GitLab](https://img.shields.io/badge/GitLab-330F63.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Tefy1317)
 
